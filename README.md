@@ -3,7 +3,7 @@
 Steps :
 
 
-First run this command : pip install selenium
+First run this command(on cmd ofc) : pip install selenium
 
 
 pls download the version of chromedriver of your current version of google chrome
