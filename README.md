@@ -1,4 +1,4 @@
-# discord-nitro-generator-checker
+# Discord-nitro-generator-checker
 
 Steps :
 
